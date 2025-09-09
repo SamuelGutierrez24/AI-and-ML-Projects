@@ -41,7 +41,7 @@ def save_to_pdf(content: str, filename: str = "researcher_output.pdf") -> str:
     return f" Data saved to {filename}"
 
 save_pdf_tool = Tool(
-    name="Save to PDF",
+    name="Save_to_PDF",
     func=save_to_pdf,
     description="Saves the research output to a PDF file."
 )
