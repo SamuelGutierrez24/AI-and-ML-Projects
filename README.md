@@ -1,7 +1,5 @@
 # IA --- ML Projects
 
-# IA --- ML Projects
-
 A portfolio-style collection of personal AI and machine learning projects demonstrating applied skills from coursework and independent study. This repository showcases a variety of experiments and small applications — from model training notebooks to agent prototypes and class exercises.
 
 What you'll find here
@@ -26,4 +24,3 @@ If you'd like a version of any project prepared for easy reproduction (requireme
 ---
 
 Last updated: 2025-09-12
-# IA---ML-Projects
